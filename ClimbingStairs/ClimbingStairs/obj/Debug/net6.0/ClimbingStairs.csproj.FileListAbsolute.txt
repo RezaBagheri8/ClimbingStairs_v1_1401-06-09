@@ -1,0 +1,15 @@
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\bin\Debug\net6.0\ClimbingStairs.exe
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\bin\Debug\net6.0\ClimbingStairs.deps.json
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\bin\Debug\net6.0\ClimbingStairs.runtimeconfig.json
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\bin\Debug\net6.0\ClimbingStairs.dll
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\bin\Debug\net6.0\ref\ClimbingStairs.dll
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\bin\Debug\net6.0\ClimbingStairs.pdb
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\obj\Debug\net6.0\ClimbingStairs.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\obj\Debug\net6.0\ClimbingStairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\obj\Debug\net6.0\ClimbingStairs.AssemblyInfoInputs.cache
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\obj\Debug\net6.0\ClimbingStairs.AssemblyInfo.cs
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\obj\Debug\net6.0\ClimbingStairs.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\obj\Debug\net6.0\ClimbingStairs.dll
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\obj\Debug\net6.0\ref\ClimbingStairs.dll
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\obj\Debug\net6.0\ClimbingStairs.pdb
+D:\kia prjc\tamrin\ClimbingStairs\ClimbingStairs\obj\Debug\net6.0\ClimbingStairs.genruntimeconfig.cache
